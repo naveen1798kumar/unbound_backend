@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Classic White T-Shirt",
+    "price": "19.99",
+    "description": "A comfortable, 100% cotton classic white t-shirt for everyday wear.",
+    "rating": "4.6",
+    "images": [
+      { "image": "https://example.com/images/tshirt-white.jpg" }
+    ],
+    "category": "T-Shirts",
+    "seller": "UrbanWear",
+    "stock": "150",
+    "numOfReviews": "42",
+    "createdAt": "2025-09-17T10:00:00.000Z"
+  },
+  {
+    "name": "Graphic Print Hoodie",
+    "price": "39.99",
+    "description": "A cozy hoodie with a stylish graphic print, perfect for chilly days.",
+    "rating": "4.8",
+    "images": [
+      { "image": "https://example.com/images/hoodie-graphic.jpg" }
+    ],
+    "category": "Hoodies",
+    "seller": "StreetStyle",
+    "stock": "80",
+    "numOfReviews": "27",
+    "createdAt": "2025-09-16T09:30:00.000Z"
+  },
+  {
+    "name": "Slim Fit Jeans",
+    "price": "49.99",
+    "description": "Modern slim fit jeans made from stretch denim for all-day comfort.",
+    "rating": "4.5",
+    "images": [
+      { "image": "https://example.com/images/pants-jeans.jpg" }
+    ],
+    "category": "Pants",
+    "seller": "DenimCo",
+    "stock": "120",
+    "numOfReviews": "35",
+    "createdAt": "2025-09-15T08:15:00.000Z"
+  },
+  {
+    "name": "Black Pullover Hoodie",
+    "price": "34.99",
+    "description": "A soft black pullover hoodie with kangaroo pocket and adjustable hood.",
+    "rating": "4.7",
+    "images": [
+      { "image": "https://example.com/images/hoodie-black.jpg" }
+    ],
+    "category": "Hoodies",
+    "seller": "ComfyClothes",
+    "stock": "60",
+    "numOfReviews": "19",
+    "createdAt": "2025-09-14T07:45:00.000Z"
+  },
+  {
+    "name": "Basic Blue T-Shirt",
+    "price": "17.99",
+    "description": "A basic blue t-shirt, perfect for layering or wearing on its own.",
+    "rating": "4.4",
+    "images": [
+      { "image": "https://example.com/images/tshirt-blue.jpg" }
+    ],
+    "category": "T-Shirts",
+    "seller": "UrbanWear",
+    "stock": "200",
+    "numOfReviews": "23",
+    "createdAt": "2025-09-13T06:30:00.000Z"
+  }
+]
